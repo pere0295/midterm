@@ -38,13 +38,14 @@ h1 {
     border-bottom: 2px solid #ff3530;
 }
 
-figcaption, h2, .News, section > p, h1 + p {
+h2 {
     font-family: "Open Sans";
 }
 
 section > p {
     font-size: .85rem;
     margin-bottom: 0;
+    font-family: "Open Sans";
 }
 
 figure {
@@ -59,6 +60,7 @@ figcaption {
     text-align: center;
     color: #757575;
     font-style: italic;
+    font-family: "Open Sans";
 }
 
 ul > li {
@@ -66,20 +68,11 @@ ul > li {
     padding-left: 0;
 }
 
-a.one:link {
-    color: #1a1a1a;
-    text-decoration: underline;
- }
-a.one:hover { 
-    text-decoration: none;
-    color: #ff3530;
-}
-
-a.two:link {
+a:link {
     color: #1a1a1a;
     text-decoration: underline;
 }
-a.two:hover {
+a:hover {
     text-decoration: none;
     color: #ff3530;
 }
