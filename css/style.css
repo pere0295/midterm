@@ -73,7 +73,7 @@ ul > li {
     padding-left: 0;
 }
 
-a:link {
+a {
     color: #1a1a1a;
     text-decoration: underline;
 }
