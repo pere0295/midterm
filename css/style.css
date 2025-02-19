@@ -36,6 +36,11 @@ h1 {
     text-transform: uppercase;
     font-size: .85rem;
     border-bottom: 2px solid #ff3530;
+    font-family: "Open Sans";
+}
+
+h1 + p {
+    font-family: "Open Sans";
 }
 
 h2 {
