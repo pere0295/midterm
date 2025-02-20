@@ -47,9 +47,14 @@ h2 {
     font-family: "Open Sans";
 }
 
-.author-date {
+.author {
     font-size: .85rem;
     margin-bottom: 0;
+    font-family: "Open Sans";
+}
+
+.date {
+    font-size: .85rem;
     font-family: "Open Sans";
 }
 
